@@ -1,0 +1,19 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.description, .me, img {
+    display: inline-block;
+}
+
+.description {
+    margin-left: -100px;
+    bottom: 40px;
+}
+
+.me {
+    font-size: 24px;
+    margin: 10px;
+    position: relative;
+    bottom: 70px;
+}
